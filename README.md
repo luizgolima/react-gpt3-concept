@@ -1,6 +1,11 @@
 # React GPT-3
 
-GPT-3 OpenAI is a website concept developed through a code along [tutorial](https://www.youtube.com/watch?v=F627pKNUCVQ&list=WL&index=8) by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery).
+An elegant website concept leveraging the cutting-edge GPT3 AI technology by OpenAI, built with React, Vite, CSS, and React Icons.
+
+## Features
+- Fast development and performance with Vite.
+- Sleek UI design using CSS.
+- Scalable and customizable icons with React Icons.
 
 ## Getting Started
 
