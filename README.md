@@ -1,8 +1,6 @@
 # React GPT-3
 
-
-## Features
-- 
+GPT-3 OpenAI is a website concept developed through a code along [tutorial](https://www.youtube.com/watch?v=F627pKNUCVQ&list=WL&index=8) by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery).
 
 ## Getting Started
 
