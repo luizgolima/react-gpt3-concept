@@ -1,10 +1,5 @@
 import "./article.css";
 const Article = () => {
-  return (
-    <div className="article">
-      <h1>Article Title</h1>
-      <p>Article content</p>
-    </div>
-  );
+  return <div></div>;
 };
 export default Article;
