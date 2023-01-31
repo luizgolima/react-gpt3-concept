@@ -1,6 +1,9 @@
 # React GPT-3
 
-An elegant website concept leveraging the cutting-edge GPT3 AI technology by OpenAI, built with React, Vite, CSS, and React Icons.
+An elegant website concept leveraging the cutting-edge GPT3 AI technology by OpenAI.
+
+![gpt3](https://user-images.githubusercontent.com/110183537/215798081-54c5997d-e943-4650-8ff2-b03ee850fef1.png)
+
 
 ## Features
 - Fast development and performance with Vite.
@@ -24,8 +27,9 @@ This project is open to contributions. If you would like to contribute, please f
 
 ## Built With
 
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Vite.js](https://github.com/vitejs/vite) - A build tool and development server
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [React Icons](https://react-icons.github.io/react-icons) - A React library for using icons
 
 ## Author
 
